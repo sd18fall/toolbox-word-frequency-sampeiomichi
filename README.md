@@ -2,4 +2,4 @@
 
 Word Frequency Analysis Project Toolbox starter code
 
-Instructions are on [the toolbox page](https://toolboxes.olin.build/word-frequency-analysis/).
+Instructions are on [the toolbox page](https://sd18spring.github.io/toolboxes/word-frequency-analysis/).
